@@ -9,6 +9,7 @@
 
 public class {
   public static void main(String[] commandLine) {
+    // Prints "Hello, World" to the terminal window.
     System.out.println("hello, world");
   }
 }
